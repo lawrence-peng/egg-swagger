@@ -1,0 +1,15 @@
+{
+    "name": "egg-swagger",
+    "eggPlugin": {
+        "name": "swagger"
+    },
+    "dependencies": {
+        "assert": "^1.4.1",
+        "parameter": "^3.5.0",
+        "ramda": "^0.26.1"
+    },
+    "devDependencies": {
+        "eslint": "^5.16.0",
+        "eslint-config-egg": "^7.3.1"
+    }
+}
