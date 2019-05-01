@@ -1,11 +1,13 @@
 {
-    "name": "egg-swagger",
+    "name": "egg-swagger-plus",
+    "version": "0.0.1",
     "eggPlugin": {
         "name": "swagger"
     },
     "dependencies": {
         "assert": "^1.4.1",
         "parameter": "^3.5.0",
+        "path-to-regexp": "^3.0.0",
         "ramda": "^0.26.1"
     },
     "devDependencies": {
